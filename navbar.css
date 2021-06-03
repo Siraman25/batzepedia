@@ -1,5 +1,5 @@
 body {
-	height: 125vh;
+	height: 80vh;
 	margin-top: 50px;
 	padding: 30px;
 	background-size: cover;
@@ -29,4 +29,18 @@ header * {
 	header li a {
 		color: white;
 		text-decoration: none;
-}  
+}
+footer {  
+	position: static;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	padding-bottom: 5px;
+	background-color: #363636;
+	color: white;
+	text-align: center;
+	font-family: "Open Sans", sans-serif;
+	font-style: regular;
+	font-weight: 400;
+	font-size: 18px;
+}
