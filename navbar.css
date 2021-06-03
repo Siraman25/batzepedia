@@ -1,0 +1,32 @@
+body {
+	height: 125vh;
+	margin-top: 50px;
+	padding: 30px;
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	
+}
+header {  
+	background-color: #5e899f;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0px;
+	height: 54px;
+	display: flex;
+	align-items: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 26px;
+	font-weight: 300;
+}  
+header * {
+		display: inline;
+	}
+		header li {
+		margin: 20px;
+	}
+	header li a {
+		color: white;
+		text-decoration: none;
+}  
